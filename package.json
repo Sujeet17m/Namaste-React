@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is namaste react by sujeet",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sujeet17m/Namaste-React.git"
+  },
+  "keywords": [],
+  "author": "Sujeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sujeet17m/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Sujeet17m/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
