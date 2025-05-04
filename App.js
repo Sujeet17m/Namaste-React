@@ -32,30 +32,36 @@
 // root.render(heading);
 // root.render(parent);
 
+// import React from "react";
+// import ReactDOM from "react-dom/client";
+
+// const children = [
+//   React.createElement(
+//     "div",
+//     { id: "child", key: "child1" },
+//     [
+//       React.createElement("h1", { key: "child1-h1" }, "I'm an h1 tag inside child"),
+//       React.createElement("h2", { key: "child1-h2" }, "I'm an h2 tag inside child")
+//     ]
+//   ),
+//   React.createElement(
+//     "div",
+//     { id: "child2", key: "child2" },
+//     [
+//       React.createElement("h1", { key: "child2-h1" }, "I'm an h1 tag inside child2"),
+//       React.createElement("h2", { key: "child2-h2" }, "I'm an h2 tag inside child2")
+//     ]
+//   )
+// ];
+
+// const parent = React.createElement("div", { id: "parent" }, children);
+
+// const root = ReactDOM.createRoot(document.getElementById("root"));
+// root.render(parent);
+
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-const children = [
-  React.createElement(
-    "div",
-    { id: "child", key: "child1" },
-    [
-      React.createElement("h1", { key: "child1-h1" }, "I'm an h1 tag inside child"),
-      React.createElement("h2", { key: "child1-h2" }, "I'm an h2 tag inside child")
-    ]
-  ),
-  React.createElement(
-    "div",
-    { id: "child2", key: "child2" },
-    [
-      React.createElement("h1", { key: "child2-h1" }, "I'm an h1 tag inside child2"),
-      React.createElement("h2", { key: "child2-h2" }, "I'm an h2 tag inside child2")
-    ]
-  )
-];
+//React Element
 
-const parent = React.createElement("div", { id: "parent" }, children);
-
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(parent);
-
+const heading = React.createElement("h1",{id: "heading"}, "namaste react");
