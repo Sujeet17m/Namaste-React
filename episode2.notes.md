@@ -21,5 +21,7 @@ normal dependencies - can be used in production phase too
 
 package-lock.json : keep a track/record of exact version of package & dependencies, 
 node module - contails actual data that dependencies needs (fetches all code that dependencies into our system)
-
+npm - to install the package
+npx - executing the package 
+cdn is not a proper way to import react
 

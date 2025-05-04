@@ -1,3 +1,17 @@
-#heading{
-    color: red;
-}
+body {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  #parent {
+    border: 2px solid #000;
+    padding: 10px;
+  }
+  
+  #child,
+  #child2 {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px dashed #999;
+  }
+  
