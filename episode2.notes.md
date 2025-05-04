@@ -20,3 +20,6 @@ normal dependencies - can be used in production phase too
   -2.14.4 here this will download major upgrade 
 
 package-lock.json : keep a track/record of exact version of package & dependencies, 
+node module - contails actual data that dependencies needs (fetches all code that dependencies into our system)
+
+
