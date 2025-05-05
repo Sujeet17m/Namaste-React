@@ -62,10 +62,30 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-//React Element
+const Title = () => (
+    <h1>
+        Vanakkam React
+    </h1>
+)
 
-const heading = React.createElement("h1",{id: "heading"}, "namaste react");
+// React Functional Components
+const HeadingComponent = () => {
+    return <h1>React Functional Component</h1>;
+};
+//both are same
+const HeadingComponent2 = () => (
+   <div>
+    {Title()}
+    <Title/> 
+    <h1>React Functional Component 2</h1>
+    </div>
+);
 
+// Create root and render both components
 const root = ReactDOM.createRoot(document.getElementById("root"));
-
-root.render(heading);
+root.render(
+    <>
+        <HeadingComponent />
+        <HeadingComponent2 />
+    </>
+);

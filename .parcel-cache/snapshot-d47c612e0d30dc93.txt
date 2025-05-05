@@ -1,7 +1,7 @@
-4340
+4344
 89C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\markdown-ansi133907261674133658 1
 118C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\reporter-dev-server\src\templates\404.html133907261689904834 0
-59C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist133908962144720737 1
+59C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist133909329492478244 1
 115C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\posthtml\node_modules\domutils\lib\traversal.js133907261675357289 0
 117C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133907261696763363 0
 82C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\domelementtype133907261673374048 1
@@ -14,7 +14,7 @@
 98C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\core\src\Dependency.js133907261717293054 0
 90C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\js-yaml\lib\snippet.js133907261701533342 0
 105C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\caniuse-lite\data\features\ac3-ec3.js133907261669688370 0
-61C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\App.js133908932271914703 0
+61C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\App.js133909329075908607 0
 72C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\episode2.notes.md133908137999447721 0
 98C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\lines-and-columns\package.json133907261666888360 0
 109C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\lightningcss\node_modules\detect-libc\lib133907261696706214 1
@@ -27,7 +27,7 @@
 118C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\caniuse-lite\data\features\css-overflow-overlay.js133907261733387615 0
 77C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\callsites133907261668400163 1
 119C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\optimizer-htmlnano\lib\HTMLNanoOptimizer.js133907261684339915 0
-72C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\episode3.notes.md133908981791542437 0
+72C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\episode3.notes.md133909321053343924 0
 111C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@swc\helpers\_\_possible_constructor_return133907261740081547 1
 100C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\source-map\dist\utils.js133907261698207649 0
 99C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\caniuse-lite\data\regions\MS.js133907261759931450 0
@@ -1192,6 +1192,7 @@
 111C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\package-manager\test\fixtures\empty133907261710402792 1
 93C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\is-arrayish\.istanbul.yml133907261669865717 0
 83C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\json5\README.md133907261685210403 0
+85C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.e3ad7d64.js133909018292126076 0
 89C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\js-yaml\lib\common.js133907261668702579 0
 98C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\posthtml\node_modules\entities133907261708334935 1
 94C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\lightningcss\node\ast.d.ts133907261699839577 0
@@ -3101,7 +3102,7 @@
 112C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\caniuse-lite\data\features\object-observe.js133907261761972358 0
 102C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\types-internal\src\Glob.js133907261682978463 0
 103C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\runtime-js\lib\JSRuntime.js133907261707552075 0
-85C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.cb65f72e.js133908937393926796 0
+85C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.cb65f72e.js133909329492001110 0
 113C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\caniuse-lite\data\features\offscreencanvas.js133907261762316254 0
 117C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\caniuse-lite\data\features\once-event-listener.js133907261762613013 0
 108C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\caniuse-lite\data\features\ogg-vorbis.js133907261762361911 0
@@ -3990,6 +3991,7 @@
 105C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\resolver-default\package.json133907261685972715 0
 99C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\error-overlay\.eslintrc133907261667258502 0
 115C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133907261682485989 0
+86C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.46b9af82.css133909018292050111 0
 104C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\reporter-tracer\package.json133907261691093306 0
 95C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\reporter-tracer\src133907261689603262 1
 113C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\@parcel\reporter-tracer\src\TracerReporter.js133907261689904834 0
@@ -4332,10 +4334,12 @@
 83C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\.bin\semver.cmd133907261893817910 0
 95C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\.bin\update-browserslist-db133907261893938992 0
 99C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\node_modules\.bin\update-browserslist-db.cmd133907261893938992 0
-70C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\index.html133908962144707197 0
+70C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\index.html133909018292043131 0
 85C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.3464ddca.js133908115439669053 0
 89C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.3464ddca.js.map133908115439795381 0
 86C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.3a01df49.css133908937393535399 0
 90C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.3a01df49.css.map133908937393916797 0
+90C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.46b9af82.css.map133909018292569983 0
 89C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.6bd02f5a.js.map133908101801562647 0
-89C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.cb65f72e.js.map133908937394175673 0
+89C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.cb65f72e.js.map133909329492443132 0
+89C:\Users\tript\OneDrive\Documents\GitHub\Namaste-React\dist\Namaste-React.e3ad7d64.js.map133909018292608789 0
