@@ -1,4 +1,4 @@
-npm - node package manager X is not , there's no where mentioned in their official website , npm doesn't have full form but it manages the packages it doesn't stand for node package manager
+npm - node package manager  X is not , there's no where mentioned in their official website , npm doesn't have full form but it manages the packages it doesn't stand for node package manager
 
 npm is a standard repositiries 
 package.json after npm init 
